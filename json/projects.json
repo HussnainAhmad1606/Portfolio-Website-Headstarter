@@ -1,0 +1,39 @@
+{
+    "projects": [
+        {
+      "id": 1,
+      "technologies": ["Next JS", "Tailwind CSS", "MongoDB", "Firebase Storage", "Vercel"],
+      "name": "HoxTrackr",
+      "description": "HoxTrackr is user-friendly web application designed to help individual students efficiently manage their personal finances while living in hostels or shared accommodations",
+      "demo": "https://hox-trackr.vercel.app/",
+      "cover": "/hoxtracker.PNG"
+    },
+        {
+      "id": 2,
+      "technologies": ["Next JS", "Tailwind CSS", "MongoDB", "Firebase Storage", "Machine Learning"],
+      "name": "SnapStock",
+      "description": "Pinterest inspired project where user can find stock images & videos for projects. User can upload images & videos to platform. Machine Learning Model is implemented to check for inappropriate content in image",
+      "demo": "https://github.com/HussnainAhmad1606/SnapStock-Website",
+      "cover": "/snpstock.png"
+
+    },
+        {
+      "id": 3,
+      "technologies": ["Next JS", "Tailwind CSS", "MongoDB", "Vercel"],
+      "name": "OSS Lab",
+      "description": "OSS Lab is online directory for finding open-source projects based on skill level and differnet skillsets",
+      "demo": "https://oss-lab.vercel.app/",
+      "cover": "/osslab.PNG"
+
+    },
+        {
+      "id": 4,
+      "technologies": ["Next JS", "Tailwind CSS", "MongoDB", "Firebase", "PostHog"],
+      "name": "LogFusion",
+      "description": "LogFusion is Social-Networking platform for professionals. It includes features of daily streaks, auto-portfolio making, career visualization & project management. Users can share about their learnings and experimental projects.",
+      "demo": "https://logfusion.com",
+      "cover": "/logfusion.PNG"
+
+    }
+]
+  }
